@@ -1,2 +1,4 @@
 # PEC3_Manovich_Reloaded
-fdfdfd
+### Autor: Victor Lacruz Herrera
+
+#
