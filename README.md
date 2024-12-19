@@ -17,3 +17,17 @@ Lo que hace única a esta herramienta es la forma en que transforma un medio té
 Desde la perspectiva de Lev Manovich, **Flightradar24** es un medio híbrido porque combina lenguajes tecnológicos previos (radar y GPS) con la visualización en tiempo real y el diseño interactivo. Al integrar estas tecnologías, no sólo se genera un mapa digital, sino un medio dinámico que informa y educa. Esto reconfigura la experiencia del usuario, que pasa de ser un simple observador del tráfico aéreo a un participante activo, capaz de explorar e interpretar datos de manera personalizada.
 
 Además, **Flightradar24** trasciende su funcionalidad inicial al incorporar capas adicionales de información. Por ejemplo, permite visualizar eventos climáticos que afectan a los vuelos o acceder a estadísticas históricas de vuelos específicos, convirtiéndose en una herramienta que mezcla entretenimiento, educación y utilidad profesional. Esta convergencia redefine cómo entendemos el tráfico aéreo, democratizándolo y haciéndolo accesible a cualquier persona con un dispositivo conectado.
+
+---
+## Caso 2: Sun Seeker 
+
+Sun Seeker es otro ejemplo fascinante de hibridación tecnológica, centrado en la integración de la astronomía, la geolocalización y la realidad aumentada para ofrecer una herramienta única en el ámbito de la planificación solar. Esta aplicación utiliza los sensores del teléfono, como el GPS y el giroscopio, junto con datos astronómicos, para mostrar la trayectoria del sol en tiempo real a través de un visor de realidad aumentada.
+
+El principal objetivo de Sun Seeker es permitir a usuarios de distintos perfiles—como arquitectos, fotógrafos, jardineros o entusiastas de la naturaleza—comprender cómo la posición del sol afectará a su entorno en diferentes momentos del día y del año. Por ejemplo, un fotógrafo puede planificar la iluminación ideal para una toma al aire libre, mientras que un arquitecto puede usar la app para diseñar espacios con una iluminación natural óptima.
+
+Desde la perspectiva de la hibridación, Sun Seeker fusiona elementos que, tradicionalmente, se experimentaban de manera separada: la observación del sol, los cálculos astronómicos y las herramientas de geolocalización. Antes, estos datos requerían un conocimiento especializado y herramientas complejas. Ahora, con la app, esta información es accesible e intuitiva, ofreciendo visualizaciones en tiempo real y simulaciones personalizadas de la trayectoria solar.
+
+La verdadera innovación de Sun Seeker radica en cómo transforma la interacción del usuario con el medio natural. A través de su visor de realidad aumentada, el sol deja de ser un elemento abstracto en el cielo para convertirse en una representación digital interactiva. Esta experiencia híbrida redefine nuestra relación con el espacio y la luz, facilitando la toma de decisiones prácticas basadas en información científica precisa.
+
+Al igual que Flightradar24, Sun Seeker no sólo democratiza el acceso a datos especializados, sino que también redefine el papel del usuario. Este pasa de ser un observador pasivo de los ciclos solares a un actor informado y proactivo en la planificación de su entorno.
+
