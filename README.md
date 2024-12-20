@@ -36,7 +36,19 @@ En pocas palabras, Sun Seeker nos conecta con algo tan cotidiano como el sol, pe
 ---
 ## Conclusiones
 
-Ambos casos, **Flightradar24** y**Sun Seeker**, demuestran cómo la hibridación tecnológica puede transformar la forma en que interactuamos con nuestro entorno y medios previamente separados. Mientras Flightradar24 integra tecnologías de rastreo y visualización para ofrecernos una visión interactiva del tráfico aéreo, Sun Seeker combina datos astronómicos con realidad aumentada para redefinir nuestra relación con la luz solar y el espacio.
+Estos dos casos de hibridación,**Flightradar24** y**Sun Seeker**, muestran cómo la tecnología puede transformar actividades comunes de una manera más fácil. FlightRadar24 hace que algo tan cotidiano como un vuelo sea interactivo, dándonos una conexión directa con el mundo de la aviación. Por otro lado, Sun Seeker nos ayuda a comprender mejor cómo el sol afecta nuestras vidas, desde lo práctico hasta lo educativo.
 
-Ambas herramientas ilustran el concepto de Lev Manovich sobre cómo la hibridación genera nuevas experiencias mediáticas, reconfigurando los lenguajes y funciones de los medios originales. Estos ejemplos destacan cómo la tecnología no sólo facilita el acceso a la información, sino que también transforma nuestra percepción y participación activa en los fenómenos que nos rodean.
+Ambas aplicaciones no solo combinan tecnología y datos, sino que también hacen que la información sea más accesible y útil para cualquier persona. Nos demuestran cómo los avances tecnológicos pueden cambiar la forma en que interactuamos con el mundo y hacer que actividades simples, como mirar el cielo o planificar un viaje, se conviertan en experiencias enriquecedoras y llenas de conocimiento.
+
+En resumen, estos ejemplos dejan claro que la hibridación entre medios y tecnología sigue creando herramientas innovadoras que transforman nuestra vida diaria y nos acercan más al entorno que nos rodea.
+
+---
+### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Web Flightradar. **https://www.geoguessr.com/es](https://www.flightradar24.com/51.47,0.46/6**
+* Información SunSeeker. **https://www.apple.com/es/](https://en.wikipedia.org/wiki/Sunseeker)**
+* Información Flightradar. **https://www.apple.com/es/](https://en.wikipedia.org/wiki/Sunseeker)](https://www.flightradar24.com/about)**
+
+
 
