@@ -10,7 +10,7 @@ En este ensayo, exploraremos dos nuevos ejemplos de hibridación que podrían fo
 ---
 ## Caso 1: FlightRadar
 
-![image](https://github.com/user-attachments/assets/31fdc6df-4352-4770-afe1-d9d77b65082d)
+![image](https://github.com/user-attachments/assets/bc25b7b7-e1c4-4885-b276-2402bb575f48)
 
 **Flightradar24** representa un claro ejemplo de hibridación al combinar datos en tiempo real, tecnologías de radar, GPS y visualización interactiva para ofrecer una gran experiencia en el tráfico aéreo global. Esta plataforma permite a los usuarios seguir vuelos en tiempo real mediante un mapa interactivo que muestra información como trayectorias, horarios, modelos de aviones e incluso datos meteorológicos.
 
@@ -22,6 +22,8 @@ Además, **Flightradar24** tiene la funcionalidad de visualizar eventos climáti
 
 ---
 ## Caso 2: Sun Seeker 
+
+![image](https://github.com/user-attachments/assets/8d6c6afc-174e-4bf4-ac34-2f870bc03381)
 
 **Sun Seeker** es otro ejemplo de hibridación tecnológica, es una aplicación diseñada para mostrar cómo se mueve el sol durante el día, en cualquier lugar del mundo. Usando tecnología de realidad aumentada y mapas solares, te permite ver la posición exacta del sol en el cielo, tanto en el presente como en cualquier fecha futura o pasada.
 
