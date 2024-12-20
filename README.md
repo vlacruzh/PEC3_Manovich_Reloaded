@@ -48,7 +48,7 @@ En resumen, estos ejemplos dejan claro que la hibridación entre medios y tecnol
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Web Flightradar. **https://www.geoguessr.com/es](https://www.flightradar24.com/51.47,0.46/6**
 * Información SunSeeker. **https://www.apple.com/es/](https://en.wikipedia.org/wiki/Sunseeker)**
-* Información Flightradar. **https://www.apple.com/es/](https://en.wikipedia.org/wiki/Sunseeker)](https://www.flightradar24.com/about)**
+* Información Flightradar. **https://www.flightradar24.com/about)**
 
 
 
